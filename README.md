@@ -11,7 +11,3 @@ Google colab only supports jupyter for now, probably to stop people from abusing
 **Why download?**
 
 Because every runtime, the notebook starts from scratch, everything must be redownloaded and reinstalled. For me this is one of the downside of using cloud computing, but hey it's free, not gonna complain.
-
-**EDA**
-
-Data analysis of dataset is here (insert link here)
